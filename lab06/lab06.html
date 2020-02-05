@@ -59,3 +59,21 @@
 
     </footer>
 </html>
+
+<!DOCTYPE html>
+<html>
+<body>
+<p>Click the button to demonstrate the prompt box.</p>
+<button onclick="myFunction()">press enter</button>
+<p id="demo"></p>
+<script>
+function myFunction() {
+  var person = prompt("Please enter your name", "hey there");
+  if (person != null) {
+    document.getElementById("demo").innerHTML =
+    "Hello " + person + "! How are you today?";
+  }
+}
+</script>
+</body>
+</html>
