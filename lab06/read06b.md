@@ -6,7 +6,7 @@
 - by interacting with your computer, phone, smart watch, ..etc you are giving them an input information.
 
 ## processing and storage:
-- the pc cpu takes the information from the memory and it changes it using algorithm and send it back to memory again and the information is ready to be output.
+- The pc cpu takes the information from the memory and it changes it using algorithm and send it back to memory again and the information is ready to be output.
 
 ### output:
 - photos, messages, signals are all considered as output.
