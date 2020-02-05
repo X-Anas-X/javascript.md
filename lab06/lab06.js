@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>JavaScript Alert</h2>
-
-<button onclick="myFunction()">Try it</button>
-
-<script>
-function myFunction() {
-  alert("I am an alert box!");
-}
-</script>
-
-</body>
-</html>
+var equation = prompt("what is the result of 5 + 5");
+var answer = prompt("is it 10?")
+var confi = Confirm("Great answer")
